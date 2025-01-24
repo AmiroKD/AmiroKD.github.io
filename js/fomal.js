@@ -2986,7 +2986,7 @@ function setUniverse() {
 
 // 雪花开关
 if (localStorage.getItem("snow") == undefined) {
-  localStorage.setItem("snow", "none");
+  localStorage.setItem("snow", "block");
 }
 document.getElementById("snow").style.display = localStorage.getItem("snow");
 function setSnow() {
@@ -3174,10 +3174,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/dm14.webp);
-    --darkmode-bg:url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
-    --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
-    --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
+    --default-bg: url(https://vc.static.pil0txia.com/gallery/tenki_no_ko/WEATHERING%20WITH%20YOU_002512.602.webp);
+    --darkmode-bg:url(https://vc.static.pil0txia.com/gallery/kimi_no_na_wa/S00124-22374219.webp);
+    --mobileday-bg: url(https://vc.static.pil0txia.com/gallery/tenki_no_ko/WEATHERING%20WITH%20YOU_002512.602.webp);
+    --mobilenight-bg: url(https://vc.static.pil0txia.com/gallery/kimi_no_na_wa/S00124-22374219.webp);
   }`;
 }
 // 切换背景主函数
@@ -3407,7 +3407,7 @@ function createWinbox() {
 <h3>1. 二次元</h3>
 <details class="folding-tag" cyan><summary> 查看二次元背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/home_bg.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/home_bg.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://vc.static.pil0txia.com/gallery/suzume_no_tojimari/Suzume.2022.2160p.BluRay.x265.10bit.DTS-CTRLHD.mkv_000602.571.webp)')"></a></div>
               </div>
             </details>
 
