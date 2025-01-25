@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://amirokd.us.kg/life/music/index.html</loc>
+    
+    <lastmod>2025-01-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://amirokd.us.kg/posts/5d850b8f.html</loc>
     
     <lastmod>2025-01-24</lastmod>
@@ -38,15 +47,6 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/life/music/index.html</loc>
-    
-    <lastmod>2025-01-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://amirokd.us.kg/site/time/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/life/games/index.html</loc>
+    <loc>https://amirokd.us.kg/personal/bb/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/personal/bb/index.html</loc>
+    <loc>https://amirokd.us.kg/life/games/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
     
@@ -92,15 +92,6 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/site/census/index.html</loc>
-    
-    <lastmod>2025-01-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://amirokd.us.kg/social/fcircle/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
@@ -110,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/categories/index.html</loc>
+    <loc>https://amirokd.us.kg/site/census/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
     
@@ -119,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/box/gallery/index.html</loc>
+    <loc>https://amirokd.us.kg/categories/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
     
@@ -138,6 +129,15 @@
   
   <url>
     <loc>https://amirokd.us.kg/box/nav/index.html</loc>
+    
+    <lastmod>2025-01-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://amirokd.us.kg/box/gallery/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
     
