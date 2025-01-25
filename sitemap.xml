@@ -119,15 +119,6 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/box/nav/index.html</loc>
-    
-    <lastmod>2025-01-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://amirokd.us.kg/box/gallery/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
@@ -138,6 +129,15 @@
   
   <url>
     <loc>https://amirokd.us.kg/box/animation/index.html</loc>
+    
+    <lastmod>2025-01-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://amirokd.us.kg/box/nav/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
     
