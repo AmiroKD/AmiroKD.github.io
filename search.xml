@@ -4,6 +4,110 @@
   
     
     <entry>
+      <title>【AmiroKDの算法日记】54.螺旋矩阵</title>
+      <link href="/posts/40521eb3.html"/>
+      <url>/posts/40521eb3.html</url>
+      
+        <content type="html"><![CDATA[<h1><a href="https://leetcode.cn/problems/spiral-matrix/">54. 螺旋矩阵</a></h1><p>给你一个 <code>m</code> 行 <code>n</code> 列的矩阵 <code>matrix</code> ，请按照 <strong>顺时针螺旋顺序</strong> ，返回矩阵中的所有元素。</p><p><strong>示例 1：</strong></p><p><img src="https://assets.leetcode.com/uploads/2020/11/13/spiral1.jpg" alt="img"></p><figure class="highlight inform7"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">输入：matrix = <span class="comment">[<span class="comment">[1,2,3]</span>,<span class="comment">[4,5,6]</span>,<span class="comment">[7,8,9]</span>]</span></span><br><span class="line">输出：<span class="comment">[1,2,3,6,9,8,7,4,5]</span></span><br></pre></td></tr></table></figure><p><strong>示例 2：</strong></p><p><img src="https://assets.leetcode.com/uploads/2020/11/13/spiral.jpg" alt="img"></p><figure class="highlight dns"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">输入：matrix = [[<span class="number">1,2,3,4</span>],[<span class="number">5,6,7,8</span>],[<span class="number">9,10,11,12</span>]]</span><br><span class="line">输出：[<span class="number">1,2,3,4</span>,<span class="number">8,12,11,10</span>,<span class="number">9,5,6,7</span>]</span><br></pre></td></tr></table></figure><p><strong>提示：</strong></p><ul><li><code>m == matrix.length</code></li><li><code>n == matrix[i].length</code></li><li><code>1 &lt;= m, n &lt;= 10</code></li><li><code>-100 &lt;= matrix[i][j] &lt;= 100</code></li></ul><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;</span><br><span class="line">    <span class="keyword">public</span> List&lt;Integer&gt; <span class="title function_">spiralOrder</span><span class="params">(<span class="type">int</span>[][] matrix)</span> &#123;</span><br><span class="line">        List&lt;Integer&gt; order = <span class="keyword">new</span> <span class="title class_">ArrayList</span>&lt;Integer&gt;();</span><br><span class="line">        <span class="keyword">if</span> (matrix == <span class="literal">null</span> || matrix.length == <span class="number">0</span> || matrix[<span class="number">0</span>].length == <span class="number">0</span>) &#123;</span><br><span class="line">            <span class="keyword">return</span> order;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="type">int</span> <span class="variable">rows</span> <span class="operator">=</span> matrix.length, columns = matrix[<span class="number">0</span>].length;   <span class="comment">//长度 边界</span></span><br><span class="line">        <span class="type">boolean</span>[][] visited = <span class="keyword">new</span> <span class="title class_">boolean</span>[rows][columns];   <span class="comment">//是否访问</span></span><br><span class="line">        <span class="type">int</span> <span class="variable">total</span> <span class="operator">=</span> rows * columns;     <span class="comment">//总个数</span></span><br><span class="line">        <span class="type">int</span> <span class="variable">row</span> <span class="operator">=</span> <span class="number">0</span>, column = <span class="number">0</span>;        <span class="comment">//遍历变量</span></span><br><span class="line">        <span class="type">int</span>[][] directions = &#123;&#123;<span class="number">0</span>, <span class="number">1</span>&#125;, &#123;<span class="number">1</span>, <span class="number">0</span>&#125;, &#123;<span class="number">0</span>, -<span class="number">1</span>&#125;, &#123;-<span class="number">1</span>, <span class="number">0</span>&#125;&#125;;    <span class="comment">//右 下 左 上</span></span><br><span class="line">        <span class="type">int</span> <span class="variable">directionIndex</span> <span class="operator">=</span> <span class="number">0</span>;     <span class="comment">//directions的遍历变量</span></span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; total; i++) &#123;</span><br><span class="line">            order.add(matrix[row][column]);     <span class="comment">//放入list</span></span><br><span class="line">            visited[row][column] = <span class="literal">true</span>;    <span class="comment">//已访问</span></span><br><span class="line">            <span class="type">int</span> <span class="variable">nextRow</span> <span class="operator">=</span> row + directions[directionIndex][<span class="number">0</span>], nextColumn = column + directions[directionIndex][<span class="number">1</span>];</span><br><span class="line">            <span class="keyword">if</span> (nextRow &lt; <span class="number">0</span> || nextRow &gt;= rows || nextColumn &lt; <span class="number">0</span> || nextColumn &gt;= columns || visited[nextRow][nextColumn]) &#123;</span><br><span class="line">                directionIndex = (directionIndex + <span class="number">1</span>) % <span class="number">4</span>;  <span class="comment">//如果下一个位置超出边界或者已经被访问过，则改变方向</span></span><br><span class="line">            &#125;</span><br><span class="line">            row += directions[directionIndex][<span class="number">0</span>];</span><br><span class="line">            column += directions[directionIndex][<span class="number">1</span>];</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> order;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>通过一个二维数组来控制<code>右 下 左 上</code>的方向进行遍历</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 算法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 矩阵 </tag>
+            
+            <tag> LeetCode 热题 100 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>OpenWRT最新23.05.5软件源镜像</title>
+      <link href="/posts/2ca31c8a.html"/>
+      <url>/posts/2ca31c8a.html</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">src<span class="regexp">/gz openwrt_core https:/</span><span class="regexp">/mirrors.ustc.edu.cn/</span>openwrt<span class="regexp">/releases/</span><span class="number">23.05</span>.<span class="number">5</span><span class="regexp">/targets/</span>armsr<span class="regexp">/armv8/</span>packages/</span><br><span class="line">src<span class="regexp">/gz openwrt_base https:/</span><span class="regexp">/mirrors.ustc.edu.cn/</span>openwrt<span class="regexp">/releases/</span><span class="number">23.05</span>.<span class="number">5</span><span class="regexp">/packages/</span>aarch64_generic<span class="regexp">/base/</span></span><br><span class="line">src<span class="regexp">/gz openwrt_luci https:/</span><span class="regexp">/mirrors.ustc.edu.cn/</span>openwrt<span class="regexp">/releases/</span><span class="number">23.05</span>.<span class="number">5</span><span class="regexp">/packages/</span>aarch64_generic<span class="regexp">/luci/</span></span><br><span class="line">src<span class="regexp">/gz openwrt_packages https:/</span><span class="regexp">/mirrors.ustc.edu.cn/</span>openwrt<span class="regexp">/releases/</span><span class="number">23.05</span>.<span class="number">5</span><span class="regexp">/packages/</span>aarch64_generic<span class="regexp">/packages/</span></span><br><span class="line">src<span class="regexp">/gz openwrt_routing https:/</span><span class="regexp">/mirrors.ustc.edu.cn/</span>openwrt<span class="regexp">/releases/</span><span class="number">23.05</span>.<span class="number">5</span><span class="regexp">/packages/</span>aarch64_generic<span class="regexp">/routing/</span></span><br><span class="line">src<span class="regexp">/gz openwrt_telephony https:/</span><span class="regexp">/mirrors.ustc.edu.cn/</span>openwrt<span class="regexp">/releases/</span><span class="number">23.05</span>.<span class="number">5</span><span class="regexp">/packages/</span>aarch64_generic<span class="regexp">/telephony/</span></span><br></pre></td></tr></table></figure><p>适用于n1盒子等arm架构</p><p>使用中科大的镜像</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软路由 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> OpenWRT </tag>
+            
+            <tag> 镜像 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>解决Idea中，springBoot启动后项目是灰色的情况</title>
+      <link href="/posts/9682ce70.html"/>
+      <url>/posts/9682ce70.html</url>
+      
+        <content type="html"><![CDATA[<h1>解决Idea中，springBoot启动后项目是灰色的情况</h1><p><img src="https://www.zhangweiluo.us.kg/img/9c6808ae863d4f5caa35e366f2994618.png" alt="img"></p><p>选中灰色的项目点击保存即可</p><p><img src="https://www.zhangweiluo.us.kg/img/c085709a1be6478a8ae8031159c50625.png" alt="img"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂项 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> idea </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>秒解！解决vercel注册问题Your account requires further verification. Please contact registration@vercel.com to</title>
+      <link href="/posts/7407e4d3.html"/>
+      <url>/posts/7407e4d3.html</url>
+      
+        <content type="html"><![CDATA[<h1>秒解！解决vercel注册问题Your account requires further verification. Please contact <a href="mailto:registration@vercel.com">registration@vercel.com</a> to</h1><p><img src="https://www.zhangweiluo.us.kg/img/b478034c4889413cb10f60992fb2c47b.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动"></p><blockquote><p><strong>在注册的时候使用国外知名的邮箱，比如gmail,outlook就可以直接注册进去，然后再绑定GitHub账号</strong></p></blockquote><p><img src="https://www.zhangweiluo.us.kg/img/ca9f264d7a144273ae8e1edcc17f69fc.png" alt="img"><img src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" alt="点击并拖拽以移动">编辑</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂项 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> vercel </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>OpenWRT适配于N1的默认可道云配置</title>
       <link href="/posts/cec8781.html"/>
       <url>/posts/cec8781.html</url>
@@ -20,11 +124,11 @@
       
         <tags>
             
+            <tag> OpenWRT </tag>
+            
             <tag> 软路由 </tag>
             
             <tag> 配置 </tag>
-            
-            <tag> OpenWRT </tag>
             
         </tags>
       
@@ -49,11 +153,11 @@
       
         <tags>
             
+            <tag> OpenWRT </tag>
+            
             <tag> 软路由 </tag>
             
             <tag> 配置 </tag>
-            
-            <tag> OpenWRT </tag>
             
         </tags>
       
