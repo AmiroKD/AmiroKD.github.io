@@ -92,15 +92,6 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/life/games/index.html</loc>
-    
-    <lastmod>2025-01-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://amirokd.us.kg/personal/bb/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
@@ -111,6 +102,15 @@
   
   <url>
     <loc>https://amirokd.us.kg/personal/love/index.html</loc>
+    
+    <lastmod>2025-01-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://amirokd.us.kg/life/games/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
     
@@ -146,6 +146,15 @@
   </url>
   
   <url>
+    <loc>https://amirokd.us.kg/box/nav/index.html</loc>
+    
+    <lastmod>2025-01-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://amirokd.us.kg/box/animation/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
@@ -156,15 +165,6 @@
   
   <url>
     <loc>https://amirokd.us.kg/box/gallery/index.html</loc>
-    
-    <lastmod>2025-01-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://amirokd.us.kg/box/nav/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
     
@@ -235,6 +235,13 @@
   </url>
   
   <url>
+    <loc>https://amirokd.us.kg/tags/HTML/</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://amirokd.us.kg/tags/hexo/</loc>
     <lastmod>2025-01-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -243,13 +250,6 @@
   
   <url>
     <loc>https://amirokd.us.kg/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-01-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://amirokd.us.kg/tags/HTML/</loc>
     <lastmod>2025-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
