@@ -92,24 +92,6 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/personal/bb/index.html</loc>
-    
-    <lastmod>2025-01-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://amirokd.us.kg/personal/love/index.html</loc>
-    
-    <lastmod>2025-01-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://amirokd.us.kg/life/games/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
@@ -128,6 +110,15 @@
   </url>
   
   <url>
+    <loc>https://amirokd.us.kg/personal/bb/index.html</loc>
+    
+    <lastmod>2025-01-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://amirokd.us.kg/social/fcircle/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
@@ -137,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/categories/index.html</loc>
+    <loc>https://amirokd.us.kg/personal/love/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
     
@@ -146,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/box/nav/index.html</loc>
+    <loc>https://amirokd.us.kg/categories/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
     
@@ -165,6 +156,15 @@
   
   <url>
     <loc>https://amirokd.us.kg/box/gallery/index.html</loc>
+    
+    <lastmod>2025-01-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://amirokd.us.kg/box/nav/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
     
@@ -221,14 +221,14 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/tags/Markdown/</loc>
+    <loc>https://amirokd.us.kg/tags/hexo/</loc>
     <lastmod>2025-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
+    <loc>https://amirokd.us.kg/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2025-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -242,14 +242,14 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/tags/hexo/</loc>
+    <loc>https://amirokd.us.kg/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
     <lastmod>2025-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/tags/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://amirokd.us.kg/tags/Markdown/</loc>
     <lastmod>2025-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -265,14 +265,14 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://amirokd.us.kg/categories/hexo/</loc>
     <lastmod>2025-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/categories/hexo/</loc>
+    <loc>https://amirokd.us.kg/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2025-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
