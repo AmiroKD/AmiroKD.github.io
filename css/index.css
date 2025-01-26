@@ -6631,8 +6631,10 @@ div#archive {
 
 /* 导航栏颜色 */
 #page-header.nav-fixed #nav {
-  background: linear-gradient(60deg, #ffd7e4 0, #c8f1ff 93%);
-  opacity: 0.95;
+  /* background: linear-gradient(60deg, #ffd7e4 0, #c8f1ff 93%); */
+  background: linear-gradient(60deg, #d7ffe3 0, #c8deff 93%);
+  /* background:rgb(57, 197, 176); */
+  opacity: 0.85;
   backdrop-filter: var(--backdrop-filter);
 }
 [data-theme="dark"] #page-header.nav-fixed #nav {
