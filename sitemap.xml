@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://amirokd.us.kg/box/gallery/index.html</loc>
+    
+    <lastmod>2025-01-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://amirokd.us.kg/posts/beb99d2e.html</loc>
     
     <lastmod>2025-01-26</lastmod>
@@ -200,6 +209,15 @@
   </url>
   
   <url>
+    <loc>https://amirokd.us.kg/site/census/index.html</loc>
+    
+    <lastmod>2025-01-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://amirokd.us.kg/personal/bb/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
@@ -210,24 +228,6 @@
   
   <url>
     <loc>https://amirokd.us.kg/personal/love/index.html</loc>
-    
-    <lastmod>2025-01-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://amirokd.us.kg/site/census/index.html</loc>
-    
-    <lastmod>2025-01-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://amirokd.us.kg/box/gallery/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
     
@@ -277,6 +277,13 @@
   </url>
   
   <url>
+    <loc>https://amirokd.us.kg/tags/MySQL/</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://amirokd.us.kg/tags/OpenWRT/</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -285,13 +292,6 @@
   
   <url>
     <loc>https://amirokd.us.kg/tags/%E9%95%9C%E5%83%8F/</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://amirokd.us.kg/tags/MySQL/</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -370,14 +370,14 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/categories/%E8%BD%AF%E8%B7%AF%E7%94%B1/</loc>
+    <loc>https://amirokd.us.kg/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <loc>https://amirokd.us.kg/categories/%E8%BD%AF%E8%B7%AF%E7%94%B1/</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
