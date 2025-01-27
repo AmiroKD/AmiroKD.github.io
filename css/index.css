@@ -9562,7 +9562,7 @@ hr:before {
     right: 85px;
     top: 0;
     /* 自定义灯笼大小 */
-    transform: scale(0.4);
+    transform: scale(0.8);
 }
 
 .d-box1 {
@@ -9571,7 +9571,7 @@ hr:before {
     left: 0;
     top: 0;
     /* 自定义灯笼大小 */
-    transform: scale(0.4);
+    transform: scale(0.8);
 }
 
 
