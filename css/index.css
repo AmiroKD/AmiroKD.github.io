@@ -9571,7 +9571,7 @@ hr:before {
     left: 0;
     top: 0;
     /* 自定义灯笼大小 */
-    transform: scale(0.3);
+    transform: scale(0.1);
 }
 
 
