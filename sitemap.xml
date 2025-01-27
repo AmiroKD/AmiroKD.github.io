@@ -218,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/personal/bb/index.html</loc>
+    <loc>https://amirokd.us.kg/personal/love/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
     
@@ -227,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/personal/love/index.html</loc>
+    <loc>https://amirokd.us.kg/personal/bb/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
     
@@ -328,6 +328,13 @@
   </url>
   
   <url>
+    <loc>https://amirokd.us.kg/tags/MySQL/</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://amirokd.us.kg/tags/hexo/</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -342,13 +349,6 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/tags/MySQL/</loc>
-    <lastmod>2025-01-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://amirokd.us.kg/tags/vercel/</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -356,14 +356,14 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/tags/%E9%93%BE%E8%A1%A8/</loc>
+    <loc>https://amirokd.us.kg/tags/idea/</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/tags/idea/</loc>
+    <loc>https://amirokd.us.kg/tags/%E9%93%BE%E8%A1%A8/</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -400,14 +400,14 @@
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/categories/hexo/</loc>
+    <loc>https://amirokd.us.kg/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://amirokd.us.kg/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <loc>https://amirokd.us.kg/categories/hexo/</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
