@@ -675,7 +675,7 @@ if (document.body.clientWidth > 992) {
         borderRadius: 5 + 'px',
         right: 55.6 + 'px',
         nekoImg: "https://www.zhangweiluo.us.kg/img/2117561Sldpmm6xP5DetmH.png",
-        hoverMsg: "💕",
+        hoverMsg: "回到顶部💕",
         color: "var(--theme-color)",
         during: 500,
         blog_body: "body",
@@ -1328,7 +1328,7 @@ document.addEventListener('visibilitychange', function () {
     clearTimeout(titleTime);
   } else {
     //返回当前页面时标签显示内容
-    document.title = '抓到你啦～';
+    document.title = '😋抓到你啦～';
     //两秒后变回正常标题
     titleTime = setTimeout(function () {
       document.title = OriginTitile;
