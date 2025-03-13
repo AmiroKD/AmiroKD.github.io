@@ -9070,7 +9070,7 @@ figure.highlight pre .deletion {
 }
 
 /* 新年侧边栏 */
-
+/* 
 #newYear {
   color: white;
   padding: 0 !important;
@@ -9129,7 +9129,7 @@ figure.highlight pre .deletion {
   height: 100%;
   width: 100%;
   background-color: rgba(0, 0, 0, 0.1);
-}
+} */
 
 /* 夜间模式友链文字颜色 */
 [data-theme="dark"] .site-card .info .desc {
