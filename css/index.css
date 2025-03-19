@@ -7585,13 +7585,13 @@ button#go-up:hover #percent {
 
 /* 个人信息卡片背景图 */
 [data-theme="light"] #aside-content > .card-widget.card-info {
-  background-image: url(https://www.zhangweiluo.us.kg/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-24%20230219.png);
+  background-image: url(https://www.pic-bed-sable-two.vercel.app/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-24%20230219.png);
   background-repeat: no-repeat;
   background-attachment: inherit;
   background-size: 100%;
 }
 [data-theme="dark"] #aside-content > .card-widget.card-info {
-  background-image: url(https://www.zhangweiluo.us.kg/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-25%20230239.png);
+  background-image: url(https://www.pic-bed-sable-two.vercel.app/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-25%20230239.png);
   background-repeat: no-repeat;
   background-attachment: inherit;
   background-size: 100%;
@@ -7657,7 +7657,7 @@ input#pic-link {
 
 /* heo 加载动画头像 */
 .loading-img {
-  background: url(https://www.zhangweiluo.us.kg/img/%E5%A4%B4%E5%83%8F.jpg)
+  background: url(https://www.pic-bed-sable-two.vercel.app/img/%E5%A4%B4%E5%83%8F.jpg)
     no-repeat center center;
   background-size: cover;
 }
@@ -9092,7 +9092,7 @@ figure.highlight pre .deletion {
   padding: 1rem;
   position: relative;
   border-radius: 12px;
-  background-image: url(https://www.zhangweiluo.us.kg/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-25%20231817.png); /* 蛇年图片 */
+  background-image: url(https://www.pic-bed-sable-two.vercel.app/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-25%20231817.png); /* 蛇年图片 */
   background-size: cover;
   background-position: center;
 }
