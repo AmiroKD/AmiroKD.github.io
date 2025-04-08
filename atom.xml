@@ -3,11 +3,11 @@
   <title>AmiroKDの小屋</title>
   
   
-  <link href="https://amirokd.github.io/atom.xml" rel="self"/>
+  <link href="https://amirokd.dpdns.org/atom.xml" rel="self"/>
   
-  <link href="https://amirokd.github.io/"/>
+  <link href="https://amirokd.dpdns.org/"/>
   <updated>2025-03-13T12:14:34.920Z</updated>
-  <id>https://amirokd.github.io/</id>
+  <id>https://amirokd.dpdns.org/</id>
   
   <author>
     <name>AmiroKD</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>认证授权</title>
-    <link href="https://amirokd.github.io/posts/11015d6e.html"/>
-    <id>https://amirokd.github.io/posts/11015d6e.html</id>
+    <link href="https://amirokd.dpdns.org/posts/11015d6e.html"/>
+    <id>https://amirokd.dpdns.org/posts/11015d6e.html</id>
     <published>2025-03-13T12:08:34.000Z</published>
     <updated>2025-03-13T12:14:34.920Z</updated>
     
@@ -35,40 +35,40 @@
     
     
     
-    <category term="八股" scheme="https://amirokd.github.io/categories/%E5%85%AB%E8%82%A1/"/>
+    <category term="八股" scheme="https://amirokd.dpdns.org/categories/%E5%85%AB%E8%82%A1/"/>
     
     
-    <category term="Spring Security" scheme="https://amirokd.github.io/tags/Spring-Security/"/>
+    <category term="Spring Security" scheme="https://amirokd.dpdns.org/tags/Spring-Security/"/>
     
-    <category term="认证授权" scheme="https://amirokd.github.io/tags/%E8%AE%A4%E8%AF%81%E6%8E%88%E6%9D%83/"/>
+    <category term="认证授权" scheme="https://amirokd.dpdns.org/tags/%E8%AE%A4%E8%AF%81%E6%8E%88%E6%9D%83/"/>
     
-    <category term="token" scheme="https://amirokd.github.io/tags/token/"/>
+    <category term="token" scheme="https://amirokd.dpdns.org/tags/token/"/>
     
   </entry>
   
   <entry>
     <title>Redis实战篇</title>
-    <link href="https://amirokd.github.io/posts/a6b15897.html"/>
-    <id>https://amirokd.github.io/posts/a6b15897.html</id>
+    <link href="https://amirokd.dpdns.org/posts/a6b15897.html"/>
+    <id>https://amirokd.dpdns.org/posts/a6b15897.html</id>
     <published>2025-03-03T11:34:05.000Z</published>
     <updated>2025-03-03T12:00:37.523Z</updated>
     
     
     
     
-    <category term="数据库" scheme="https://amirokd.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <category term="数据库" scheme="https://amirokd.dpdns.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
     
-    <category term="Redis" scheme="https://amirokd.github.io/tags/Redis/"/>
+    <category term="Redis" scheme="https://amirokd.dpdns.org/tags/Redis/"/>
     
-    <category term="实战篇" scheme="https://amirokd.github.io/tags/%E5%AE%9E%E6%88%98%E7%AF%87/"/>
+    <category term="实战篇" scheme="https://amirokd.dpdns.org/tags/%E5%AE%9E%E6%88%98%E7%AF%87/"/>
     
   </entry>
   
   <entry>
     <title>Redis基础篇</title>
-    <link href="https://amirokd.github.io/posts/4604f75b.html"/>
-    <id>https://amirokd.github.io/posts/4604f75b.html</id>
+    <link href="https://amirokd.dpdns.org/posts/4604f75b.html"/>
+    <id>https://amirokd.dpdns.org/posts/4604f75b.html</id>
     <published>2025-03-03T11:30:58.000Z</published>
     <updated>2025-03-19T10:36:34.169Z</updated>
     
@@ -85,19 +85,19 @@
     
     
     
-    <category term="数据库" scheme="https://amirokd.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <category term="数据库" scheme="https://amirokd.dpdns.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
     
-    <category term="Redis" scheme="https://amirokd.github.io/tags/Redis/"/>
+    <category term="Redis" scheme="https://amirokd.dpdns.org/tags/Redis/"/>
     
-    <category term="基础篇" scheme="https://amirokd.github.io/tags/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
+    <category term="基础篇" scheme="https://amirokd.dpdns.org/tags/%E5%9F%BA%E7%A1%80%E7%AF%87/"/>
     
   </entry>
   
   <entry>
     <title>【AmiroKDの算法日记】102-二叉树的层序遍历</title>
-    <link href="https://amirokd.github.io/posts/ac7d6339.html"/>
-    <id>https://amirokd.github.io/posts/ac7d6339.html</id>
+    <link href="https://amirokd.dpdns.org/posts/ac7d6339.html"/>
+    <id>https://amirokd.dpdns.org/posts/ac7d6339.html</id>
     <published>2025-02-14T06:48:46.000Z</published>
     <updated>2025-02-14T09:42:24.502Z</updated>
     
@@ -112,19 +112,19 @@
     
     
     
-    <category term="算法" scheme="https://amirokd.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://amirokd.dpdns.org/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-    <category term="LeetCode 热题 100" scheme="https://amirokd.github.io/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
+    <category term="LeetCode 热题 100" scheme="https://amirokd.dpdns.org/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
     
-    <category term="二叉树" scheme="https://amirokd.github.io/tags/%E4%BA%8C%E5%8F%89%E6%A0%91/"/>
+    <category term="二叉树" scheme="https://amirokd.dpdns.org/tags/%E4%BA%8C%E5%8F%89%E6%A0%91/"/>
     
   </entry>
   
   <entry>
     <title>【AmiroKDの算法日记】24-两两交换链表中的节点</title>
-    <link href="https://amirokd.github.io/posts/49fbc8df.html"/>
-    <id>https://amirokd.github.io/posts/49fbc8df.html</id>
+    <link href="https://amirokd.dpdns.org/posts/49fbc8df.html"/>
+    <id>https://amirokd.dpdns.org/posts/49fbc8df.html</id>
     <published>2025-02-05T08:48:27.000Z</published>
     <updated>2025-02-05T09:26:01.713Z</updated>
     
@@ -139,19 +139,19 @@
     
     
     
-    <category term="算法" scheme="https://amirokd.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://amirokd.dpdns.org/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-    <category term="LeetCode 热题 100" scheme="https://amirokd.github.io/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
+    <category term="LeetCode 热题 100" scheme="https://amirokd.dpdns.org/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
     
-    <category term="链表" scheme="https://amirokd.github.io/tags/%E9%93%BE%E8%A1%A8/"/>
+    <category term="链表" scheme="https://amirokd.dpdns.org/tags/%E9%93%BE%E8%A1%A8/"/>
     
   </entry>
   
   <entry>
     <title>【AmiroKDの算法日记】19-删除链表的倒数第 N 个结点</title>
-    <link href="https://amirokd.github.io/posts/ba18dbcc.html"/>
-    <id>https://amirokd.github.io/posts/ba18dbcc.html</id>
+    <link href="https://amirokd.dpdns.org/posts/ba18dbcc.html"/>
+    <id>https://amirokd.dpdns.org/posts/ba18dbcc.html</id>
     <published>2025-02-04T12:26:26.000Z</published>
     <updated>2025-03-19T10:36:34.169Z</updated>
     
@@ -166,19 +166,19 @@
     
     
     
-    <category term="算法" scheme="https://amirokd.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://amirokd.dpdns.org/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-    <category term="LeetCode 热题 100" scheme="https://amirokd.github.io/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
+    <category term="LeetCode 热题 100" scheme="https://amirokd.dpdns.org/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
     
-    <category term="链表" scheme="https://amirokd.github.io/tags/%E9%93%BE%E8%A1%A8/"/>
+    <category term="链表" scheme="https://amirokd.dpdns.org/tags/%E9%93%BE%E8%A1%A8/"/>
     
   </entry>
   
   <entry>
     <title>【AmiroKDの算法日记】21-合并两个有序链表</title>
-    <link href="https://amirokd.github.io/posts/95494616.html"/>
-    <id>https://amirokd.github.io/posts/95494616.html</id>
+    <link href="https://amirokd.dpdns.org/posts/95494616.html"/>
+    <id>https://amirokd.dpdns.org/posts/95494616.html</id>
     <published>2025-02-04T12:08:35.000Z</published>
     <updated>2025-02-04T12:09:33.423Z</updated>
     
@@ -193,19 +193,19 @@
     
     
     
-    <category term="算法" scheme="https://amirokd.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://amirokd.dpdns.org/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-    <category term="LeetCode 热题 100" scheme="https://amirokd.github.io/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
+    <category term="LeetCode 热题 100" scheme="https://amirokd.dpdns.org/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
     
-    <category term="链表" scheme="https://amirokd.github.io/tags/%E9%93%BE%E8%A1%A8/"/>
+    <category term="链表" scheme="https://amirokd.dpdns.org/tags/%E9%93%BE%E8%A1%A8/"/>
     
   </entry>
   
   <entry>
     <title>【AmiroKDの算法日记】2-两数相加</title>
-    <link href="https://amirokd.github.io/posts/b4dcde1a.html"/>
-    <id>https://amirokd.github.io/posts/b4dcde1a.html</id>
+    <link href="https://amirokd.dpdns.org/posts/b4dcde1a.html"/>
+    <id>https://amirokd.dpdns.org/posts/b4dcde1a.html</id>
     <published>2025-02-04T12:05:06.000Z</published>
     <updated>2025-03-19T10:36:34.169Z</updated>
     
@@ -220,19 +220,19 @@
     
     
     
-    <category term="算法" scheme="https://amirokd.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://amirokd.dpdns.org/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-    <category term="LeetCode 热题 100" scheme="https://amirokd.github.io/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
+    <category term="LeetCode 热题 100" scheme="https://amirokd.dpdns.org/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
     
-    <category term="链表" scheme="https://amirokd.github.io/tags/%E9%93%BE%E8%A1%A8/"/>
+    <category term="链表" scheme="https://amirokd.dpdns.org/tags/%E9%93%BE%E8%A1%A8/"/>
     
   </entry>
   
   <entry>
     <title>【AmiroKDの算法日记】141-环形链表</title>
-    <link href="https://amirokd.github.io/posts/6eac35ce.html"/>
-    <id>https://amirokd.github.io/posts/6eac35ce.html</id>
+    <link href="https://amirokd.dpdns.org/posts/6eac35ce.html"/>
+    <id>https://amirokd.dpdns.org/posts/6eac35ce.html</id>
     <published>2025-02-02T14:48:31.000Z</published>
     <updated>2025-03-19T10:36:34.169Z</updated>
     
@@ -248,19 +248,19 @@
     
     
     
-    <category term="算法" scheme="https://amirokd.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://amirokd.dpdns.org/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-    <category term="LeetCode 热题 100" scheme="https://amirokd.github.io/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
+    <category term="LeetCode 热题 100" scheme="https://amirokd.dpdns.org/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
     
-    <category term="链表" scheme="https://amirokd.github.io/tags/%E9%93%BE%E8%A1%A8/"/>
+    <category term="链表" scheme="https://amirokd.dpdns.org/tags/%E9%93%BE%E8%A1%A8/"/>
     
   </entry>
   
   <entry>
     <title>【AmiroKDの算法日记】206-反转链表</title>
-    <link href="https://amirokd.github.io/posts/6fb84027.html"/>
-    <id>https://amirokd.github.io/posts/6fb84027.html</id>
+    <link href="https://amirokd.dpdns.org/posts/6fb84027.html"/>
+    <id>https://amirokd.dpdns.org/posts/6fb84027.html</id>
     <published>2025-01-27T15:45:46.000Z</published>
     <updated>2025-02-01T12:55:27.726Z</updated>
     
@@ -276,19 +276,19 @@
     
     
     
-    <category term="算法" scheme="https://amirokd.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://amirokd.dpdns.org/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-    <category term="LeetCode 热题 100" scheme="https://amirokd.github.io/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
+    <category term="LeetCode 热题 100" scheme="https://amirokd.dpdns.org/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
     
-    <category term="链表" scheme="https://amirokd.github.io/tags/%E9%93%BE%E8%A1%A8/"/>
+    <category term="链表" scheme="https://amirokd.dpdns.org/tags/%E9%93%BE%E8%A1%A8/"/>
     
   </entry>
   
   <entry>
     <title>【AmiroKDの算法日记】240-搜索二维矩阵 II</title>
-    <link href="https://amirokd.github.io/posts/beb99d2e.html"/>
-    <id>https://amirokd.github.io/posts/beb99d2e.html</id>
+    <link href="https://amirokd.dpdns.org/posts/beb99d2e.html"/>
+    <id>https://amirokd.dpdns.org/posts/beb99d2e.html</id>
     <published>2025-01-26T15:37:46.000Z</published>
     <updated>2025-01-26T16:15:17.671Z</updated>
     
@@ -303,19 +303,19 @@
     
     
     
-    <category term="算法" scheme="https://amirokd.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://amirokd.dpdns.org/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-    <category term="矩阵" scheme="https://amirokd.github.io/tags/%E7%9F%A9%E9%98%B5/"/>
+    <category term="矩阵" scheme="https://amirokd.dpdns.org/tags/%E7%9F%A9%E9%98%B5/"/>
     
-    <category term="LeetCode 热题 100" scheme="https://amirokd.github.io/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
+    <category term="LeetCode 热题 100" scheme="https://amirokd.dpdns.org/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
     
   </entry>
   
   <entry>
     <title>【AmiroKDの算法日记】48-旋转图像</title>
-    <link href="https://amirokd.github.io/posts/c2131d9a.html"/>
-    <id>https://amirokd.github.io/posts/c2131d9a.html</id>
+    <link href="https://amirokd.dpdns.org/posts/c2131d9a.html"/>
+    <id>https://amirokd.dpdns.org/posts/c2131d9a.html</id>
     <published>2025-01-26T15:07:33.000Z</published>
     <updated>2025-03-19T10:36:34.169Z</updated>
     
@@ -330,19 +330,19 @@
     
     
     
-    <category term="算法" scheme="https://amirokd.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://amirokd.dpdns.org/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-    <category term="矩阵" scheme="https://amirokd.github.io/tags/%E7%9F%A9%E9%98%B5/"/>
+    <category term="矩阵" scheme="https://amirokd.dpdns.org/tags/%E7%9F%A9%E9%98%B5/"/>
     
-    <category term="LeetCode 热题 100" scheme="https://amirokd.github.io/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
+    <category term="LeetCode 热题 100" scheme="https://amirokd.dpdns.org/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
     
   </entry>
   
   <entry>
     <title>MySQL学习笔记</title>
-    <link href="https://amirokd.github.io/posts/f12cbde5.html"/>
-    <id>https://amirokd.github.io/posts/f12cbde5.html</id>
+    <link href="https://amirokd.dpdns.org/posts/f12cbde5.html"/>
+    <id>https://amirokd.dpdns.org/posts/f12cbde5.html</id>
     <published>2025-01-26T12:42:40.000Z</published>
     <updated>2025-03-19T10:36:34.169Z</updated>
     
@@ -357,17 +357,17 @@
     
     
     
-    <category term="数据库" scheme="https://amirokd.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <category term="数据库" scheme="https://amirokd.dpdns.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
     
-    <category term="MySQL" scheme="https://amirokd.github.io/tags/MySQL/"/>
+    <category term="MySQL" scheme="https://amirokd.dpdns.org/tags/MySQL/"/>
     
   </entry>
   
   <entry>
     <title>【AmiroKDの算法日记】54.螺旋矩阵</title>
-    <link href="https://amirokd.github.io/posts/40521eb3.html"/>
-    <id>https://amirokd.github.io/posts/40521eb3.html</id>
+    <link href="https://amirokd.dpdns.org/posts/40521eb3.html"/>
+    <id>https://amirokd.dpdns.org/posts/40521eb3.html</id>
     <published>2025-01-26T09:54:06.000Z</published>
     <updated>2025-01-26T15:10:05.919Z</updated>
     
@@ -382,19 +382,19 @@
     
     
     
-    <category term="算法" scheme="https://amirokd.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://amirokd.dpdns.org/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-    <category term="矩阵" scheme="https://amirokd.github.io/tags/%E7%9F%A9%E9%98%B5/"/>
+    <category term="矩阵" scheme="https://amirokd.dpdns.org/tags/%E7%9F%A9%E9%98%B5/"/>
     
-    <category term="LeetCode 热题 100" scheme="https://amirokd.github.io/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
+    <category term="LeetCode 热题 100" scheme="https://amirokd.dpdns.org/tags/LeetCode-%E7%83%AD%E9%A2%98-100/"/>
     
   </entry>
   
   <entry>
     <title>OpenWRT最新23.05.5软件源镜像</title>
-    <link href="https://amirokd.github.io/posts/2ca31c8a.html"/>
-    <id>https://amirokd.github.io/posts/2ca31c8a.html</id>
+    <link href="https://amirokd.dpdns.org/posts/2ca31c8a.html"/>
+    <id>https://amirokd.dpdns.org/posts/2ca31c8a.html</id>
     <published>2025-01-26T09:48:40.000Z</published>
     <updated>2025-01-26T10:30:15.887Z</updated>
     
@@ -408,19 +408,19 @@
     
     
     
-    <category term="软路由" scheme="https://amirokd.github.io/categories/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
+    <category term="软路由" scheme="https://amirokd.dpdns.org/categories/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
     
     
-    <category term="OpenWRT" scheme="https://amirokd.github.io/tags/OpenWRT/"/>
+    <category term="OpenWRT" scheme="https://amirokd.dpdns.org/tags/OpenWRT/"/>
     
-    <category term="镜像" scheme="https://amirokd.github.io/tags/%E9%95%9C%E5%83%8F/"/>
+    <category term="镜像" scheme="https://amirokd.dpdns.org/tags/%E9%95%9C%E5%83%8F/"/>
     
   </entry>
   
   <entry>
     <title>解决Idea中，springBoot启动后项目是灰色的情况</title>
-    <link href="https://amirokd.github.io/posts/9682ce70.html"/>
-    <id>https://amirokd.github.io/posts/9682ce70.html</id>
+    <link href="https://amirokd.dpdns.org/posts/9682ce70.html"/>
+    <id>https://amirokd.dpdns.org/posts/9682ce70.html</id>
     <published>2025-01-26T09:46:46.000Z</published>
     <updated>2025-03-19T10:36:34.169Z</updated>
     
@@ -435,17 +435,17 @@
     
     
     
-    <category term="杂项" scheme="https://amirokd.github.io/categories/%E6%9D%82%E9%A1%B9/"/>
+    <category term="杂项" scheme="https://amirokd.dpdns.org/categories/%E6%9D%82%E9%A1%B9/"/>
     
     
-    <category term="idea" scheme="https://amirokd.github.io/tags/idea/"/>
+    <category term="idea" scheme="https://amirokd.dpdns.org/tags/idea/"/>
     
   </entry>
   
   <entry>
     <title>秒解！解决vercel注册问题Your account requires further verification. Please contact registration@vercel.com to</title>
-    <link href="https://amirokd.github.io/posts/7407e4d3.html"/>
-    <id>https://amirokd.github.io/posts/7407e4d3.html</id>
+    <link href="https://amirokd.dpdns.org/posts/7407e4d3.html"/>
+    <id>https://amirokd.dpdns.org/posts/7407e4d3.html</id>
     <published>2025-01-26T09:44:06.000Z</published>
     <updated>2025-03-19T10:36:34.169Z</updated>
     
@@ -459,17 +459,17 @@
     
     
     
-    <category term="杂项" scheme="https://amirokd.github.io/categories/%E6%9D%82%E9%A1%B9/"/>
+    <category term="杂项" scheme="https://amirokd.dpdns.org/categories/%E6%9D%82%E9%A1%B9/"/>
     
     
-    <category term="vercel" scheme="https://amirokd.github.io/tags/vercel/"/>
+    <category term="vercel" scheme="https://amirokd.dpdns.org/tags/vercel/"/>
     
   </entry>
   
   <entry>
     <title>OpenWRT适配于N1的默认可道云配置</title>
-    <link href="https://amirokd.github.io/posts/cec8781.html"/>
-    <id>https://amirokd.github.io/posts/cec8781.html</id>
+    <link href="https://amirokd.dpdns.org/posts/cec8781.html"/>
+    <id>https://amirokd.dpdns.org/posts/cec8781.html</id>
     <published>2025-01-25T17:46:29.000Z</published>
     <updated>2025-01-25T17:48:23.234Z</updated>
     
@@ -485,21 +485,21 @@
     
     
     
-    <category term="软路由" scheme="https://amirokd.github.io/categories/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
+    <category term="软路由" scheme="https://amirokd.dpdns.org/categories/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
     
     
-    <category term="OpenWRT" scheme="https://amirokd.github.io/tags/OpenWRT/"/>
+    <category term="OpenWRT" scheme="https://amirokd.dpdns.org/tags/OpenWRT/"/>
     
-    <category term="软路由" scheme="https://amirokd.github.io/tags/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
+    <category term="软路由" scheme="https://amirokd.dpdns.org/tags/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
     
-    <category term="配置" scheme="https://amirokd.github.io/tags/%E9%85%8D%E7%BD%AE/"/>
+    <category term="配置" scheme="https://amirokd.dpdns.org/tags/%E9%85%8D%E7%BD%AE/"/>
     
   </entry>
   
   <entry>
     <title>OpenWRT适配于N1的默认Samba配置</title>
-    <link href="https://amirokd.github.io/posts/b6825721.html"/>
-    <id>https://amirokd.github.io/posts/b6825721.html</id>
+    <link href="https://amirokd.dpdns.org/posts/b6825721.html"/>
+    <id>https://amirokd.dpdns.org/posts/b6825721.html</id>
     <published>2025-01-25T17:43:46.000Z</published>
     <updated>2025-01-25T17:48:23.230Z</updated>
     
@@ -514,21 +514,21 @@
     
     
     
-    <category term="软路由" scheme="https://amirokd.github.io/categories/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
+    <category term="软路由" scheme="https://amirokd.dpdns.org/categories/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
     
     
-    <category term="OpenWRT" scheme="https://amirokd.github.io/tags/OpenWRT/"/>
+    <category term="OpenWRT" scheme="https://amirokd.dpdns.org/tags/OpenWRT/"/>
     
-    <category term="软路由" scheme="https://amirokd.github.io/tags/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
+    <category term="软路由" scheme="https://amirokd.dpdns.org/tags/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
     
-    <category term="配置" scheme="https://amirokd.github.io/tags/%E9%85%8D%E7%BD%AE/"/>
+    <category term="配置" scheme="https://amirokd.dpdns.org/tags/%E9%85%8D%E7%BD%AE/"/>
     
   </entry>
   
   <entry>
     <title>如何在hexo上创建一篇文章</title>
-    <link href="https://amirokd.github.io/posts/e043b629.html"/>
-    <id>https://amirokd.github.io/posts/e043b629.html</id>
+    <link href="https://amirokd.dpdns.org/posts/e043b629.html"/>
+    <id>https://amirokd.dpdns.org/posts/e043b629.html</id>
     <published>2025-01-25T17:36:34.000Z</published>
     <updated>2025-03-19T10:36:34.169Z</updated>
     
@@ -539,12 +539,12 @@
     
     
     
-    <category term="hexo" scheme="https://amirokd.github.io/categories/hexo/"/>
+    <category term="hexo" scheme="https://amirokd.dpdns.org/categories/hexo/"/>
     
     
-    <category term="hexo" scheme="https://amirokd.github.io/tags/hexo/"/>
+    <category term="hexo" scheme="https://amirokd.dpdns.org/tags/hexo/"/>
     
-    <category term="教程" scheme="https://amirokd.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://amirokd.dpdns.org/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
