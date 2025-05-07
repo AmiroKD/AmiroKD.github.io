@@ -674,7 +674,7 @@ if (document.body.clientWidth > 992) {
         zoom: 0.9,
         borderRadius: 5 + 'px',
         right: 55.6 + 'px',
-        nekoImg: "https://raw.githubusercontent.com/AmiroKD/pic_bed/refs/heads/main/img/2117561Sldpmm6xP5DetmH.png",
+        nekoImg: "https://zhangweiluo.dpdns.org/img/2117561Sldpmm6xP5DetmH.png",
         hoverMsg: "回到顶部💕",
         color: "var(--theme-color)",
         during: 500,
