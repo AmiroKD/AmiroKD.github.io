@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>关于dpdns.org绑定vercel失败问题</title>
+      <link href="/posts/7385849b.html"/>
+      <url>/posts/7385849b.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="关于dpdns-org绑定vercel失败问题"><a href="#关于dpdns-org绑定vercel失败问题" class="headerlink" title="关于dpdns.org绑定vercel失败问题"></a>关于dpdns.org绑定vercel失败问题</h1><p><strong>当Vercel出现三级域名认证出现问题的时候</strong></p><p><img src="https://zhangweiluo.dpdns.org/img/image-20250507221111270.png" alt="image-20250507221111270"></p><p><strong>在cloud flare中填写_vercel和 _vercel.xxx两个txt类型的信息</strong></p><p><img src="https://zhangweiluo.dpdns.org/img/image-20250507221022851.png" alt="image-20250507221022851"></p><p><strong>即可通过验证</strong></p><p><img src="https://zhangweiluo.dpdns.org/img/image-20250507221252448.png" alt="image-20250507221252448"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 域名 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> vercel </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>认证授权</title>
       <link href="/posts/11015d6e.html"/>
       <url>/posts/11015d6e.html</url>
@@ -25,33 +50,6 @@
             <tag> 认证授权 </tag>
             
             <tag> token </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Redis实战篇</title>
-      <link href="/posts/a6b15897.html"/>
-      <url>/posts/a6b15897.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 数据库 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Redis </tag>
-            
-            <tag> 实战篇 </tag>
             
         </tags>
       
@@ -475,11 +473,11 @@
       
         <tags>
             
-            <tag> OpenWRT </tag>
-            
             <tag> 软路由 </tag>
             
             <tag> 配置 </tag>
+            
+            <tag> OpenWRT </tag>
             
         </tags>
       
@@ -504,11 +502,11 @@
       
         <tags>
             
-            <tag> OpenWRT </tag>
-            
             <tag> 软路由 </tag>
             
             <tag> 配置 </tag>
+            
+            <tag> OpenWRT </tag>
             
         </tags>
       

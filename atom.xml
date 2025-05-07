@@ -6,7 +6,7 @@
   <link href="https://amirokd.dpdns.org/atom.xml" rel="self"/>
   
   <link href="https://amirokd.dpdns.org/"/>
-  <updated>2025-03-13T12:14:34.920Z</updated>
+  <updated>2025-05-07T14:13:47.341Z</updated>
   <id>https://amirokd.dpdns.org/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于dpdns.org绑定vercel失败问题</title>
+    <link href="https://amirokd.dpdns.org/posts/7385849b.html"/>
+    <id>https://amirokd.dpdns.org/posts/7385849b.html</id>
+    <published>2025-05-07T14:06:03.000Z</published>
+    <updated>2025-05-07T14:13:47.341Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="关于dpdns-org绑定vercel失败问题"><a href="#关于dpdns-org绑定vercel失败问题" class="headerlink" title="关于dpdns.org绑定vercel失败问题"></a>关于dpdns.org绑定vercel失败问题</h1><p><strong>当Vercel出现三级域名认证出现问题的时候</strong></p><p><img src="https://zhangweiluo.dpdns.org/img/image-20250507221111270.png" alt="image-20250507221111270"></p><p><strong>在cloud flare中填写_vercel和 _vercel.xxx两个txt类型的信息</strong></p><p><img src="https://zhangweiluo.dpdns.org/img/image-20250507221022851.png" alt="image-20250507221022851"></p><p><strong>即可通过验证</strong></p><p><img src="https://zhangweiluo.dpdns.org/img/image-20250507221252448.png" alt="image-20250507221252448"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;关于dpdns-org绑定vercel失败问题&quot;&gt;&lt;a href=&quot;#关于dpdns-org绑定vercel失败问题&quot; class=&quot;headerlink&quot; title=&quot;关于dpdns.org绑定vercel失败问题&quot;&gt;&lt;/a&gt;关于dpdns.org绑定verc</summary>
+      
+    
+    
+    
+    <category term="域名" scheme="https://amirokd.dpdns.org/categories/%E5%9F%9F%E5%90%8D/"/>
+    
+    
+    <category term="vercel" scheme="https://amirokd.dpdns.org/tags/vercel/"/>
+    
+  </entry>
   
   <entry>
     <title>认证授权</title>
@@ -41,25 +65,6 @@
     <category term="认证授权" scheme="https://amirokd.dpdns.org/tags/%E8%AE%A4%E8%AF%81%E6%8E%88%E6%9D%83/"/>
     
     <category term="token" scheme="https://amirokd.dpdns.org/tags/token/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Redis实战篇</title>
-    <link href="https://amirokd.dpdns.org/posts/a6b15897.html"/>
-    <id>https://amirokd.dpdns.org/posts/a6b15897.html</id>
-    <published>2025-03-03T11:34:05.000Z</published>
-    <updated>2025-03-03T12:00:37.523Z</updated>
-    
-    
-    
-    
-    <category term="数据库" scheme="https://amirokd.dpdns.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    
-    <category term="Redis" scheme="https://amirokd.dpdns.org/tags/Redis/"/>
-    
-    <category term="实战篇" scheme="https://amirokd.dpdns.org/tags/%E5%AE%9E%E6%88%98%E7%AF%87/"/>
     
   </entry>
   
@@ -467,11 +472,11 @@
     <category term="软路由" scheme="https://amirokd.dpdns.org/categories/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
     
     
-    <category term="OpenWRT" scheme="https://amirokd.dpdns.org/tags/OpenWRT/"/>
-    
     <category term="软路由" scheme="https://amirokd.dpdns.org/tags/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
     
     <category term="配置" scheme="https://amirokd.dpdns.org/tags/%E9%85%8D%E7%BD%AE/"/>
+    
+    <category term="OpenWRT" scheme="https://amirokd.dpdns.org/tags/OpenWRT/"/>
     
   </entry>
   
@@ -495,11 +500,11 @@
     <category term="软路由" scheme="https://amirokd.dpdns.org/categories/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
     
     
-    <category term="OpenWRT" scheme="https://amirokd.dpdns.org/tags/OpenWRT/"/>
-    
     <category term="软路由" scheme="https://amirokd.dpdns.org/tags/%E8%BD%AF%E8%B7%AF%E7%94%B1/"/>
     
     <category term="配置" scheme="https://amirokd.dpdns.org/tags/%E9%85%8D%E7%BD%AE/"/>
+    
+    <category term="OpenWRT" scheme="https://amirokd.dpdns.org/tags/OpenWRT/"/>
     
   </entry>
   
