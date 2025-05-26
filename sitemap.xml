@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://amirokd.dpdns.org/life/music/index.html</loc>
+    <loc>https://amirokd.dpdns.org/life/movies/index.html</loc>
     
     <lastmod>2025-05-07</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://amirokd.dpdns.org/life/movies/index.html</loc>
+    <loc>https://amirokd.dpdns.org/life/music/index.html</loc>
     
     <lastmod>2025-05-07</lastmod>
     
@@ -119,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://amirokd.dpdns.org/posts/6eac35ce.html</loc>
+    <loc>https://amirokd.dpdns.org/posts/b4dcde1a.html</loc>
     
     <lastmod>2025-05-07</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://amirokd.dpdns.org/posts/b4dcde1a.html</loc>
+    <loc>https://amirokd.dpdns.org/posts/6eac35ce.html</loc>
     
     <lastmod>2025-05-07</lastmod>
     
@@ -317,15 +317,6 @@
   </url>
   
   <url>
-    <loc>https://amirokd.dpdns.org/personal/bb/index.html</loc>
-    
-    <lastmod>2025-01-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://amirokd.dpdns.org/personal/love/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
@@ -336,6 +327,15 @@
   
   <url>
     <loc>https://amirokd.dpdns.org/site/census/index.html</loc>
+    
+    <lastmod>2025-01-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://amirokd.dpdns.org/personal/bb/index.html</loc>
     
     <lastmod>2025-01-24</lastmod>
     
@@ -385,20 +385,6 @@
   </url>
   
   <url>
-    <loc>https://amirokd.dpdns.org/tags/%E8%BD%AF%E8%B7%AF%E7%94%B1/</loc>
-    <lastmod>2025-05-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://amirokd.dpdns.org/tags/%E9%85%8D%E7%BD%AE/</loc>
-    <lastmod>2025-05-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://amirokd.dpdns.org/tags/OpenWRT/</loc>
     <lastmod>2025-05-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -407,13 +393,6 @@
   
   <url>
     <loc>https://amirokd.dpdns.org/tags/%E9%95%9C%E5%83%8F/</loc>
-    <lastmod>2025-05-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://amirokd.dpdns.org/tags/MySQL/</loc>
     <lastmod>2025-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -434,6 +413,27 @@
   </url>
   
   <url>
+    <loc>https://amirokd.dpdns.org/tags/%E8%BD%AF%E8%B7%AF%E7%94%B1/</loc>
+    <lastmod>2025-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://amirokd.dpdns.org/tags/%E9%85%8D%E7%BD%AE/</loc>
+    <lastmod>2025-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://amirokd.dpdns.org/tags/MySQL/</loc>
+    <lastmod>2025-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://amirokd.dpdns.org/tags/hexo/</loc>
     <lastmod>2025-05-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -448,6 +448,13 @@
   </url>
   
   <url>
+    <loc>https://amirokd.dpdns.org/tags/%E9%93%BE%E8%A1%A8/</loc>
+    <lastmod>2025-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://amirokd.dpdns.org/tags/vercel/</loc>
     <lastmod>2025-05-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -456,13 +463,6 @@
   
   <url>
     <loc>https://amirokd.dpdns.org/tags/idea/</loc>
-    <lastmod>2025-05-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://amirokd.dpdns.org/tags/%E9%93%BE%E8%A1%A8/</loc>
     <lastmod>2025-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -490,27 +490,6 @@
   </url>
   
   <url>
-    <loc>https://amirokd.dpdns.org/tags/ClickHouse/</loc>
-    <lastmod>2025-05-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://amirokd.dpdns.org/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-    <lastmod>2025-05-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://amirokd.dpdns.org/tags/Flyway/</loc>
-    <lastmod>2025-05-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://amirokd.dpdns.org/tags/Spring-Security/</loc>
     <lastmod>2025-05-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -532,7 +511,28 @@
   </url>
   
   <url>
+    <loc>https://amirokd.dpdns.org/tags/Flyway/</loc>
+    <lastmod>2025-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://amirokd.dpdns.org/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <lastmod>2025-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://amirokd.dpdns.org/tags/HTML/</loc>
+    <lastmod>2025-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://amirokd.dpdns.org/tags/ClickHouse/</loc>
     <lastmod>2025-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -555,14 +555,14 @@
   </url>
   
   <url>
-    <loc>https://amirokd.dpdns.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <loc>https://amirokd.dpdns.org/categories/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2025-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://amirokd.dpdns.org/categories/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://amirokd.dpdns.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
     <lastmod>2025-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
