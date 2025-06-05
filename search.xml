@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Java计算地球上两点之间的椭球面距离</title>
+      <link href="/posts/bcefa0a2.html"/>
+      <url>/posts/bcefa0a2.html</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * 计算距离</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@param</span> longitudeFrom</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@param</span> latitudeFrom</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@param</span> longitudeTo</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@param</span> latitudeTo</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@return</span></span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">static</span> <span class="type">double</span> <span class="title function_">getDistance</span><span class="params">(<span class="type">double</span> longitudeFrom, <span class="type">double</span> latitudeFrom, <span class="type">double</span> longitudeTo, <span class="type">double</span> latitudeTo)</span> &#123;</span><br><span class="line">    <span class="type">GlobalCoordinates</span> <span class="variable">source</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">GlobalCoordinates</span>(latitudeFrom, longitudeFrom);</span><br><span class="line">    <span class="type">GlobalCoordinates</span> <span class="variable">target</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">GlobalCoordinates</span>(latitudeTo, longitudeTo);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="keyword">new</span> <span class="title class_">GeodeticCalculator</span>().calculateGeodeticCurve(Ellipsoid.Sphere, source, target)</span><br><span class="line">            .getEllipsoidalDistance();</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 开发 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>深入了解海豚调度DolphinScheduler</title>
       <link href="/posts/7fdb8b61.html"/>
       <url>/posts/7fdb8b61.html</url>
