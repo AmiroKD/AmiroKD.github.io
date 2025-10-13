@@ -135,9 +135,9 @@
       
         <tags>
             
-            <tag> Flyway </tag>
-            
             <tag> 数据库 </tag>
+            
+            <tag> Flyway </tag>
             
         </tags>
       
@@ -156,9 +156,9 @@
       
         <tags>
             
-            <tag> 数据库 </tag>
-            
             <tag> ClickHouse </tag>
+            
+            <tag> 数据库 </tag>
             
         </tags>
       
