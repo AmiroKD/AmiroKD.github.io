@@ -160,9 +160,9 @@
       
         <tags>
             
-            <tag> Flyway </tag>
-            
             <tag> 数据库 </tag>
+            
+            <tag> Flyway </tag>
             
         </tags>
       
@@ -181,9 +181,9 @@
       
         <tags>
             
-            <tag> 数据库 </tag>
-            
             <tag> ClickHouse </tag>
+            
+            <tag> 数据库 </tag>
             
         </tags>
       
@@ -661,11 +661,11 @@
       
         <tags>
             
-            <tag> OpenWRT </tag>
-            
             <tag> 软路由 </tag>
             
             <tag> 配置 </tag>
+            
+            <tag> OpenWRT </tag>
             
         </tags>
       
@@ -690,11 +690,11 @@
       
         <tags>
             
-            <tag> OpenWRT </tag>
-            
             <tag> 软路由 </tag>
             
             <tag> 配置 </tag>
+            
+            <tag> OpenWRT </tag>
             
         </tags>
       

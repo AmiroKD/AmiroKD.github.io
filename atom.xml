@@ -223,9 +223,9 @@
     
     
     
-    <category term="Flyway" scheme="https://amirokd.dpdns.org/tags/Flyway/"/>
-    
     <category term="数据库" scheme="https://amirokd.dpdns.org/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    <category term="Flyway" scheme="https://amirokd.dpdns.org/tags/Flyway/"/>
     
   </entry>
   
@@ -248,9 +248,9 @@
     
     
     
-    <category term="数据库" scheme="https://amirokd.dpdns.org/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
     <category term="ClickHouse" scheme="https://amirokd.dpdns.org/tags/ClickHouse/"/>
+    
+    <category term="数据库" scheme="https://amirokd.dpdns.org/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
   </entry>
   
